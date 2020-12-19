@@ -273,11 +273,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Repos\\Local-Business.Repo\\Local-Business.Repo.csproj",
+      "projectUniqueName": "E:\\Local-Business\\Local-Business\\Local-Business.Repo\\Local-Business.Repo.csproj",
       "projectName": "Local-Business.Repo",
-      "projectPath": "E:\\Repos\\Local-Business.Repo\\Local-Business.Repo.csproj",
+      "projectPath": "E:\\Local-Business\\Local-Business\\Local-Business.Repo\\Local-Business.Repo.csproj",
       "packagesPath": "C:\\Users\\Himanshu\\.nuget\\packages\\",
-      "outputPath": "E:\\Repos\\Local-Business.Repo\\obj\\",
+      "outputPath": "E:\\Local-Business\\Local-Business\\Local-Business.Repo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Himanshu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -293,14 +293,14 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "E:\\Repos\\Local-Business.Common\\Local-Business.Common.csproj": {
-              "projectPath": "E:\\Repos\\Local-Business.Common\\Local-Business.Common.csproj"
+            "E:\\Local-Business\\Local-Business\\Local-Business.Common\\Local-Business.Common.csproj": {
+              "projectPath": "E:\\Local-Business\\Local-Business\\Local-Business.Common\\Local-Business.Common.csproj"
             },
-            "E:\\Repos\\Local-Business.Logging\\Local-Business.Logging.csproj": {
-              "projectPath": "E:\\Repos\\Local-Business.Logging\\Local-Business.Logging.csproj"
+            "E:\\Local-Business\\Local-Business\\Local-Business.Logging\\Local-Business.Logging.csproj": {
+              "projectPath": "E:\\Local-Business\\Local-Business\\Local-Business.Logging\\Local-Business.Logging.csproj"
             },
-            "E:\\Repos\\Local-Business.Models\\Local-Business.Models.csproj": {
-              "projectPath": "E:\\Repos\\Local-Business.Models\\Local-Business.Models.csproj"
+            "E:\\Local-Business\\Local-Business\\Local-Business.Models\\Local-Business.Models.csproj": {
+              "projectPath": "E:\\Local-Business\\Local-Business\\Local-Business.Models\\Local-Business.Models.csproj"
             }
           }
         }

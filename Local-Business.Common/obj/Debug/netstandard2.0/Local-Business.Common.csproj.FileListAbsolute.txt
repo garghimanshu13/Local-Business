@@ -16,3 +16,11 @@ E:\Repos\Local-Business.Common\obj\Debug\netstandard2.0\Local-Business.Common.As
 E:\Repos\Local-Business.Common\obj\Debug\netstandard2.0\Local-Business.Common.csproj.CoreCompileInputs.cache
 E:\Repos\Local-Business.Common\obj\Debug\netstandard2.0\Local-Business.Common.dll
 E:\Repos\Local-Business.Common\obj\Debug\netstandard2.0\Local-Business.Common.pdb
+E:\Local-Business\Local-Business\Local-Business.Common\bin\Debug\netstandard2.0\Local-Business.Common.deps.json
+E:\Local-Business\Local-Business\Local-Business.Common\bin\Debug\netstandard2.0\Local-Business.Common.dll
+E:\Local-Business\Local-Business\Local-Business.Common\bin\Debug\netstandard2.0\Local-Business.Common.pdb
+E:\Local-Business\Local-Business\Local-Business.Common\obj\Debug\netstandard2.0\Local-Business.Common.AssemblyInfoInputs.cache
+E:\Local-Business\Local-Business\Local-Business.Common\obj\Debug\netstandard2.0\Local-Business.Common.AssemblyInfo.cs
+E:\Local-Business\Local-Business\Local-Business.Common\obj\Debug\netstandard2.0\Local-Business.Common.csproj.CoreCompileInputs.cache
+E:\Local-Business\Local-Business\Local-Business.Common\obj\Debug\netstandard2.0\Local-Business.Common.dll
+E:\Local-Business\Local-Business\Local-Business.Common\obj\Debug\netstandard2.0\Local-Business.Common.pdb

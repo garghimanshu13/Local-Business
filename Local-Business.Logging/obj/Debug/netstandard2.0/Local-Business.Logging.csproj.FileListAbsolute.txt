@@ -16,3 +16,11 @@ E:\Repos\Local-Business.Logging\obj\Debug\netstandard2.0\Local-Business.Logging.
 E:\Repos\Local-Business.Logging\obj\Debug\netstandard2.0\Local-Business.Logging.csproj.CoreCompileInputs.cache
 E:\Repos\Local-Business.Logging\obj\Debug\netstandard2.0\Local-Business.Logging.dll
 E:\Repos\Local-Business.Logging\obj\Debug\netstandard2.0\Local-Business.Logging.pdb
+E:\Local-Business\Local-Business\Local-Business.Logging\bin\Debug\netstandard2.0\Local-Business.Logging.deps.json
+E:\Local-Business\Local-Business\Local-Business.Logging\bin\Debug\netstandard2.0\Local-Business.Logging.dll
+E:\Local-Business\Local-Business\Local-Business.Logging\bin\Debug\netstandard2.0\Local-Business.Logging.pdb
+E:\Local-Business\Local-Business\Local-Business.Logging\obj\Debug\netstandard2.0\Local-Business.Logging.AssemblyInfoInputs.cache
+E:\Local-Business\Local-Business\Local-Business.Logging\obj\Debug\netstandard2.0\Local-Business.Logging.AssemblyInfo.cs
+E:\Local-Business\Local-Business\Local-Business.Logging\obj\Debug\netstandard2.0\Local-Business.Logging.csproj.CoreCompileInputs.cache
+E:\Local-Business\Local-Business\Local-Business.Logging\obj\Debug\netstandard2.0\Local-Business.Logging.dll
+E:\Local-Business\Local-Business\Local-Business.Logging\obj\Debug\netstandard2.0\Local-Business.Logging.pdb

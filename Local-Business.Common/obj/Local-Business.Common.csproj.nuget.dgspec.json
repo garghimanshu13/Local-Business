@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Repos\\Local-Business.Common\\Local-Business.Common.csproj": {}
+    "E:\\Local-Business\\Local-Business\\Local-Business.Common\\Local-Business.Common.csproj": {}
   },
   "projects": {
-    "E:\\Repos\\Local-Business.Common\\Local-Business.Common.csproj": {
+    "E:\\Local-Business\\Local-Business\\Local-Business.Common\\Local-Business.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Repos\\Local-Business.Common\\Local-Business.Common.csproj",
+        "projectUniqueName": "E:\\Local-Business\\Local-Business\\Local-Business.Common\\Local-Business.Common.csproj",
         "projectName": "Local-Business.Common",
-        "projectPath": "E:\\Repos\\Local-Business.Common\\Local-Business.Common.csproj",
+        "projectPath": "E:\\Local-Business\\Local-Business\\Local-Business.Common\\Local-Business.Common.csproj",
         "packagesPath": "C:\\Users\\Himanshu\\.nuget\\packages\\",
-        "outputPath": "E:\\Repos\\Local-Business.Common\\obj\\",
+        "outputPath": "E:\\Local-Business\\Local-Business\\Local-Business.Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Himanshu\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -219,11 +219,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Repos\\Local-Business.Logging\\Local-Business.Logging.csproj",
+      "projectUniqueName": "E:\\Local-Business\\Local-Business\\Local-Business.Logging\\Local-Business.Logging.csproj",
       "projectName": "Local-Business.Logging",
-      "projectPath": "E:\\Repos\\Local-Business.Logging\\Local-Business.Logging.csproj",
+      "projectPath": "E:\\Local-Business\\Local-Business\\Local-Business.Logging\\Local-Business.Logging.csproj",
       "packagesPath": "C:\\Users\\Himanshu\\.nuget\\packages\\",
-      "outputPath": "E:\\Repos\\Local-Business.Logging\\obj\\",
+      "outputPath": "E:\\Local-Business\\Local-Business\\Local-Business.Logging\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Himanshu\\AppData\\Roaming\\NuGet\\NuGet.Config",

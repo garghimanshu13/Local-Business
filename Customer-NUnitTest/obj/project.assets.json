@@ -4931,11 +4931,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Repos\\Customer-NUnitTest\\Customer-NUnitTest.csproj",
+      "projectUniqueName": "E:\\Local-Business\\Local-Business\\Customer-NUnitTest\\Customer-NUnitTest.csproj",
       "projectName": "Customer-NUnitTest",
-      "projectPath": "E:\\Repos\\Customer-NUnitTest\\Customer-NUnitTest.csproj",
+      "projectPath": "E:\\Local-Business\\Local-Business\\Customer-NUnitTest\\Customer-NUnitTest.csproj",
       "packagesPath": "C:\\Users\\Himanshu\\.nuget\\packages\\",
-      "outputPath": "E:\\Repos\\Customer-NUnitTest\\obj\\",
+      "outputPath": "E:\\Local-Business\\Local-Business\\Customer-NUnitTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Himanshu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4951,11 +4951,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "E:\\Repos\\Local-Business.Models\\Local-Business.Models.csproj": {
-              "projectPath": "E:\\Repos\\Local-Business.Models\\Local-Business.Models.csproj"
+            "E:\\Local-Business\\Local-Business\\Local-Business.Models\\Local-Business.Models.csproj": {
+              "projectPath": "E:\\Local-Business\\Local-Business\\Local-Business.Models\\Local-Business.Models.csproj"
             },
-            "E:\\Repos\\Local-Business\\Local-Business.csproj": {
-              "projectPath": "E:\\Repos\\Local-Business\\Local-Business.csproj"
+            "E:\\Local-Business\\Local-Business\\Local-Business\\Local-Business.csproj": {
+              "projectPath": "E:\\Local-Business\\Local-Business\\Local-Business\\Local-Business.csproj"
             }
           }
         }

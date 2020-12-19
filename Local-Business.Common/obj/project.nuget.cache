@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hUEELMail2eKhSbUaCmqoaeipFtdBORi7Q8oRraBR0DnvSwW8arulW/UG96r/hEMWHHmzxLQ7ADTDLzky1c4bw==",
+  "dgSpecHash": "CAV307p9N5DpXXZe2DCNb/MYd0KuRusMq09K32kx+qanUlSnsWyUqwYMz3CStTO75teDsaUuAFcOQP8aCDuR0A==",
   "success": true,
-  "projectFilePath": "E:\\Repos\\Local-Business.Common\\Local-Business.Common.csproj",
+  "projectFilePath": "E:\\Local-Business\\Local-Business\\Local-Business.Common\\Local-Business.Common.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Himanshu\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Himanshu\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

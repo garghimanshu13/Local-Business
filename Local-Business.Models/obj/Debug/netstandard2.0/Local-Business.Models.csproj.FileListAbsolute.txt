@@ -26,3 +26,17 @@ E:\Repos\Local-Business.Models\obj\Debug\netstandard2.0\Local-Business.Models.cs
 E:\Repos\Local-Business.Models\obj\Debug\netstandard2.0\Local-Business.Models.csproj.CopyComplete
 E:\Repos\Local-Business.Models\obj\Debug\netstandard2.0\Local-Business.Models.dll
 E:\Repos\Local-Business.Models\obj\Debug\netstandard2.0\Local-Business.Models.pdb
+E:\Local-Business\Local-Business\Local-Business.Models\bin\Debug\netstandard2.0\Local-Business.Models.deps.json
+E:\Local-Business\Local-Business\Local-Business.Models\bin\Debug\netstandard2.0\Local-Business.Models.dll
+E:\Local-Business\Local-Business\Local-Business.Models\bin\Debug\netstandard2.0\Local-Business.Models.pdb
+E:\Local-Business\Local-Business\Local-Business.Models\bin\Debug\netstandard2.0\Local-Business.Common.dll
+E:\Local-Business\Local-Business\Local-Business.Models\bin\Debug\netstandard2.0\Local-Business.Logging.dll
+E:\Local-Business\Local-Business\Local-Business.Models\bin\Debug\netstandard2.0\Local-Business.Common.pdb
+E:\Local-Business\Local-Business\Local-Business.Models\bin\Debug\netstandard2.0\Local-Business.Logging.pdb
+E:\Local-Business\Local-Business\Local-Business.Models\obj\Debug\netstandard2.0\Local-Business.Models.csprojAssemblyReference.cache
+E:\Local-Business\Local-Business\Local-Business.Models\obj\Debug\netstandard2.0\Local-Business.Models.AssemblyInfoInputs.cache
+E:\Local-Business\Local-Business\Local-Business.Models\obj\Debug\netstandard2.0\Local-Business.Models.AssemblyInfo.cs
+E:\Local-Business\Local-Business\Local-Business.Models\obj\Debug\netstandard2.0\Local-Business.Models.csproj.CoreCompileInputs.cache
+E:\Local-Business\Local-Business\Local-Business.Models\obj\Debug\netstandard2.0\Local-Business.Models.csproj.CopyComplete
+E:\Local-Business\Local-Business\Local-Business.Models\obj\Debug\netstandard2.0\Local-Business.Models.dll
+E:\Local-Business\Local-Business\Local-Business.Models\obj\Debug\netstandard2.0\Local-Business.Models.pdb
