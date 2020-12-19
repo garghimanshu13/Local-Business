@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>Local_Business.Models</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Local-Business.Common\Local-Business.Common.csproj" />
+    <ProjectReference Include="..\Local-Business.Logging\Local-Business.Logging.csproj" />
+  </ItemGroup>
+
+</Project>

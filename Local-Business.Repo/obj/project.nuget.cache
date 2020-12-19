@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "+wPsIXtRzU7LTAu/0gN4w/Wz/1+mvnGW/gfyS+hofBrXdamU+joWgHU4OHy6Ka19Gz00Gaz2Mz5SeOk+AbCG0Q==",
+  "success": true,
+  "projectFilePath": "E:\\Repos\\Local-Business.Repo\\Local-Business.Repo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Himanshu\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Himanshu\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Himanshu\\.nuget\\packages\\serilog\\2.10.0\\serilog.2.10.0.nupkg.sha512"
+  ],
+  "logs": []
+}
